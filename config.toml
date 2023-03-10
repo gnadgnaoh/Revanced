@@ -50,7 +50,7 @@ enabled = true
 build-mode = "both"
 excluded-patches = "hide-views-stats dynamic-color monochrome-icon hide-recommended-users"
 version = "latest"
-merge-integrations = true
+merge-integrations = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Reddit]
