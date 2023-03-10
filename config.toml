@@ -46,7 +46,7 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Twitter]
-enabled = false
+enabled = true
 build-mode = "both"
 excluded-patches = "hide-views-stats dynamic-color monochrome-icon hide-recommended-users"
 version = "latest"
